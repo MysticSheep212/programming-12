@@ -1,0 +1,4 @@
+story 1
+story 2
+story 3
+doing card tricks.
