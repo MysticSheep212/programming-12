@@ -2,20 +2,6 @@
 
 Overview of the chapters from the Python Programming Course in Computer Programming 12 based on the Computer Science 120 course at SFU.
 
-## Table Of Contents
-
-- [Chapter 1: Variables and Values](#chapter-1-variables-and-values)
-- [Chapter 2: Printing](#chapter-2-printing)
-- [Chapter 3: Functions](#chapter-3-functions)
-- [Chapter 4: Turtle](#chapter-4-Turtle)
-- [Chapter 5: Conditionals and Recursion](#chapter-5-conditionals-and-recursion)
-- [Chapter 6: Functions with Return Values](#chapter-6-functions-with-return-values)
-- [Chapter 7: Lists and Loops](#chapter-7-lists-and-loops)
-- [Chapter 8: Strings and Writing Files](#chapter-8-strings-and-writing-files)
-- [Chapter 9: Lists](#chapter-9-lists)
-
----
-
 ## [Chapter 1](Python_Chapter_1/chap01.ipynb): Variables and Values
 
 _January 28 , 2025_
