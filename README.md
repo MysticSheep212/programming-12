@@ -155,3 +155,16 @@ This chapter delves deeper into lists and their advanced features. Key topics in
 - The concept of aliasing and its implications for mutable objects.
 - Writing functions that take lists as arguments and modify them.
 - Creating and using word lists for solving problems like finding anagrams and palindromes.
+
+## [Chapter 10](Python_Chapter_10/chap10.ipynb): Dictionaries
+
+_May 5, 2025_
+
+This chapter introduces Python dictionaries, a data structure for storing key-value pairs. Key topics include:
+
+- Creating dictionaries and adding or modifying key-value pairs.
+- Accessing values using keys and handling KeyError.
+- Efficient key lookups using hashing and the in operator.
+- Searching for values in dictionaries and its performance implications.
+- Practical examples, such as counting characters in strings and optimizing reverse-word lookups.
+- Understanding dictionary operations like keys(), values(), and len().
