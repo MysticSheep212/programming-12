@@ -14,9 +14,10 @@ Overview of the chapters from the Python Programming Course in Computer Programm
 - [Chapter 8: Strings and Writing Files](#chapter-8-strings-and-writing-files)
 - [Chapter 9: Lists](#chapter-9-lists)
 - [Chapter 10: Dictionaries](#chapter-10-dictionaries)
+
 ---
 
-## [Chapter 1](Python_Chapter_1/chap01.ipynb): Variables and Values 
+## [Chapter 1](Python_Chapter_1/chap01.ipynb): Variables and Values
 
 _January 28 , 2025_
 
@@ -168,3 +169,9 @@ This chapter introduces Python dictionaries, a data structure for storing key-va
 - Searching for values in dictionaries and its performance implications.
 - Practical examples, such as counting characters in strings and optimizing reverse-word lookups.
 - Understanding dictionary operations like keys(), values(), and len().
+
+## [Chapter 11](Python_Chapter_11): Algorithms
+
+_May 27, 2025_
+
+This chapter talks about Binary Search Algorithms, Linear Search Algorithms, and Sorting Algorithms
