@@ -174,4 +174,4 @@ This chapter introduces Python dictionaries, a data structure for storing key-va
 
 _May 27, 2025_
 
-This chapter talks about Binary Search Algorithms, Linear Search Algorithms, and Sorting Algorithms
+This chapter talks about [Binary Search Algorithms](Python_Chapter_11/Binary%20Search%20-%20Algorithms), [Linear Search Algorithms](Python_Chapter_11/Linear%20Search%20-%20Algorithms), and [Sorting Algorithms](Python_Chapter_11/Sorting%20Algorithms).
